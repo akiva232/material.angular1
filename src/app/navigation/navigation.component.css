@@ -1,0 +1,20 @@
+/* mat-form-field{direction: rtl;text-align: right;}
+::ng-deep .mat-calendar-table{direction: rtl;} */
+
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}

@@ -1,0 +1,7 @@
+/* mat-form-field{direction: rtl;text-align: right;}
+::ng-deep .mat-calendar-table{direction: rtl;} */
+
+
+.full-width-table {
+  width: 100%;
+}
